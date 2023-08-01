@@ -40,4 +40,6 @@ var rotasUsuarios = []Rota{
 		Funcao:             controllers.DeletarUsuario,
 		RequerAutenticacao: false,
 	},
+	/////////
+
 }
